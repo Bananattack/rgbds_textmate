@@ -11,3 +11,4 @@ To install for Sublime Text 2 on Windows, copy the **"Z80 Assembly"** folder to 
 
 Enjoy!
 
+![Preview of the syntax rules is here:](syntax_preview.png)
