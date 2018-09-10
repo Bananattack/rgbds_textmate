@@ -12,3 +12,6 @@ To install for Sublime Text 2 on Windows, copy the **"Z80 Assembly"** folder to 
     %APPDATA%\Roaming\Sublime Text 2\Packages
 
 Enjoy!
+
+The files included with this project are released under the public domain, so feel free to use/modify/whatever.
+
